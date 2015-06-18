@@ -1,0 +1,22 @@
+C:\Users\Nguyen Minh Dang\AppData\Local\Temporary Projects\DangnmPS02682_INF205\bin\Debug\DangnmPS02682_INF205.exe.config
+C:\Users\Nguyen Minh Dang\Desktop\INF205\DangnmPS02682_INF205\DangnmPS02682_INF205\bin\Debug\DangnmPS02682_INF205.exe.config
+C:\Users\Nguyen Minh Dang\Desktop\INF205\DangnmPS02682_INF205\DangnmPS02682_INF205\obj\Debug\DangnmPS02682_INF205.frmDangNhap.resources
+C:\Users\Nguyen Minh Dang\Desktop\INF205\DangnmPS02682_INF205\DangnmPS02682_INF205\obj\Debug\DangnmPS02682_INF205.frmQuanLy.resources
+C:\Users\Nguyen Minh Dang\Desktop\INF205\DangnmPS02682_INF205\DangnmPS02682_INF205\obj\Debug\DangnmPS02682_INF205.Resources.resources
+C:\Users\Nguyen Minh Dang\Desktop\INF205\DangnmPS02682_INF205\DangnmPS02682_INF205\obj\Debug\DangnmPS02682_INF205.vbproj.GenerateResource.Cache
+C:\Users\Nguyen Minh Dang\Desktop\INF205\DangnmPS02682_INF205\DangnmPS02682_INF205\bin\Debug\DangnmPS02682_INF205.exe
+C:\Users\Nguyen Minh Dang\Desktop\INF205\DangnmPS02682_INF205\DangnmPS02682_INF205\bin\Debug\DangnmPS02682_INF205.pdb
+C:\Users\Nguyen Minh Dang\Desktop\INF205\DangnmPS02682_INF205\DangnmPS02682_INF205\bin\Debug\DangnmPS02682_INF205.xml
+C:\Users\Nguyen Minh Dang\Desktop\INF205\DangnmPS02682_INF205\DangnmPS02682_INF205\obj\Debug\DangnmPS02682_INF205.exe
+C:\Users\Nguyen Minh Dang\Desktop\INF205\DangnmPS02682_INF205\DangnmPS02682_INF205\obj\Debug\DangnmPS02682_INF205.xml
+C:\Users\Nguyen Minh Dang\Desktop\INF205\DangnmPS02682_INF205\DangnmPS02682_INF205\obj\Debug\DangnmPS02682_INF205.pdb
+C:\Users\Nguyen Minh Dang\Desktop\INF205\DangnmPS02682_INF205\DangnmPS02682_INF205\bin\Debug\DangnmPS02682_INF205.exe.manifest
+C:\Users\Nguyen Minh Dang\Desktop\INF205\DangnmPS02682_INF205\DangnmPS02682_INF205\bin\Debug\DangnmPS02682_INF205.application
+C:\Users\Nguyen Minh Dang\Desktop\INF205\DangnmPS02682_INF205\DangnmPS02682_INF205\obj\Debug\DangnmPS02682_INF205.exe.manifest
+C:\Users\Nguyen Minh Dang\Desktop\INF205\DangnmPS02682_INF205\DangnmPS02682_INF205\obj\Debug\DangnmPS02682_INF205.application
+C:\Users\Nguyen Minh Dang\Desktop\INF205\DangnmPS02682_INF205\DangnmPS02682_INF205\obj\Debug\DangnmPS02682_INF205.frmWelcome.resources
+C:\Users\Nguyen Minh Dang\Desktop\INF205\DangnmPS02682_INF205\DangnmPS02682_INF205\obj\Debug\DangnmPS02682_INF205.frmKhachHang.resources
+C:\Users\Nguyen Minh Dang\Desktop\INF205\DangnmPS02682_INF205\DangnmPS02682_INF205\obj\Debug\DangnmPS02682_INF205.frmNhanVien.resources
+C:\Users\Nguyen Minh Dang\Desktop\INF205\DangnmPS02682_INF205\DangnmPS02682_INF205\obj\Debug\DangnmPS02682_INF205.frmHoaDon.resources
+C:\Users\Nguyen Minh Dang\Desktop\INF205\DangnmPS02682_INF205\DangnmPS02682_INF205\obj\Debug\DangnmPS02682_INF205.frmSanPham.resources
+C:\Users\Nguyen Minh Dang\Desktop\INF205\DangnmPS02682_INF205\DangnmPS02682_INF205\obj\Debug\DangnmPS02682_INF205.frmLoaiSanPham.resources
